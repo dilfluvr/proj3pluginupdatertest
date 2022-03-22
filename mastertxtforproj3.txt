@@ -17,3 +17,7 @@ data/test.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.ogg
 <Version: 1.06>
 audio/bgm/test.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.ogg
 <End of Version>
+
+<Version: 1.07>
+audio/bgm/test.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.ogg
+<End of Version>
