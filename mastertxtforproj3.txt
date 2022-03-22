@@ -5,3 +5,7 @@ data/test.png https://raw.githubusercontent.com/dilfluvr/proj3pluginupdatertest/
 <Version: 1.03>
 data/test.ogg https://drive.google.com/file/d/1B3jstVLp9H62T03UOjvHTZ1l0d2-M4vM/view
 <End of Version>
+
+<Version: 1.04>
+data/test.ogg https://u.pcloud.link/publink/show?code=XZ8uw0VZOuP48DNhpIJLpFahpbxIxplFolX7
+<End of Version>
