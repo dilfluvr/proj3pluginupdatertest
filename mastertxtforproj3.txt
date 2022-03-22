@@ -13,3 +13,7 @@ data/test.ogg https://u.pcloud.link/publink/show?code=XZ8uw0VZOuP48DNhpIJLpFahpb
 <Version: 1.05>
 data/test.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.ogg
 <End of Version>
+
+<Version: 1.05>
+audio/bgm/test.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.ogg
+<End of Version>
