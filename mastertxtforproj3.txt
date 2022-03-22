@@ -26,3 +26,7 @@ audio/bgm/test.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.o
 data/System.json https://raw.githubusercontent.com/dilfluvr/proj3pluginupdatertest/main/System.json
 /audio/bgm/03_Endless_Battle.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.ogg
 <End of Version>
+
+<Version: 1.09>
+/img/SumRndmDde/auto-update/Background.png https://raw.githubusercontent.com/dilfluvr/proj3pluginupdatertest/main/Background.png
+<End of Version>
