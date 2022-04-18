@@ -12,5 +12,5 @@
 <Version: 1.03>
 /data/Map001.json https://raw.githubusercontent.com/dilfluvr/proj3pluginupdatertest/main/Map001.json
 /audio/bgm/03_Endless_Battle.ogg https://www.dropbox.com/s/657xgcpg4k223sm/03_Endless_Battle.ogg
-
+/img/characters/
 <End of Version>
